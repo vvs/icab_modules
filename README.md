@@ -6,8 +6,7 @@ These are my modules for the awesome [iCab Mobile](http://www.icab-mobile.de/) b
 List of modules
 ---------------
 
-* PostToGoogleReader (based on the official InstapaperReadLater module).
-  [Install](https://github.com/vvs/icab_modules/raw/master/PostToGoogleReader.icabmodule)
+* PostToGoogleReader (based on the official InstapaperReadLater module). [Install](icabmodule://github.com/vvs/icab_modules/raw/master/PostToGoogleReader.icabmodule).
 
 Useful Links
 ------------
