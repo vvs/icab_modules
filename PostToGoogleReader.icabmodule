@@ -13,24 +13,14 @@
         doAction = confirm(text);
     }
 
-    function GoogleReaderResponse(status,data) {
-        var text = "Error posting the page to Instapaper";
-        if (status == 201) {
-            text = "Posting the page to the Google Reader was successful.";
-        } else if (status == 403) {
-            text = "Error: Invalid username or password!";
-        }
-        alert(text);
-    }
-
     if (doAction) {
         var b=document.body;
         var GR________bookmarklet_domain='http://www.google.com';
 
         if (b && !document.xmlVersion) {
-            void(z=document.createElement('script'));
-            void(z.src='http://www.google.com/reader/ui/link-bookmarklet.js');
-            void(b.appendChild(z));
+            z = document.createElement('script');
+            z.src = 'http://www.google.com/reader/ui/link-bookmarklet.js';
+            b.appendChild(z);
         } else {
           // do nothing
         }
