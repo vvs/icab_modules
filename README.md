@@ -3,8 +3,7 @@ Modules for iCab Mobile
 
 These are my modules for the awesome [iCab Mobile](http://www.icab-mobile.de/) browser for iPad.
 
-List of modules is [here](icab_modules/modules.html)
-
+List of modules is [here](http://vvs.github.com/icab_modules/).
 
 Useful Links
 ------------
