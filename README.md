@@ -3,12 +3,8 @@ Modules for iCab Mobile
 
 These are my modules for the awesome [iCab Mobile](http://www.icab-mobile.de/) browser for iPad.
 
-List of modules
----------------
+List of modules is [here](modules.html)
 
-* PostToGoogleReader (based on the official InstapaperReadLater module).
-  [Install](icabmodule://github.com/vvs/icab_modules/raw/master/PostToGoogleReader.icabmodule).
-  <a href="icabmodule://github.com/vvs/icab_modules/raw/master/PostToGoogleReader.icabmodule">Install</a>.
 
 Useful Links
 ------------
